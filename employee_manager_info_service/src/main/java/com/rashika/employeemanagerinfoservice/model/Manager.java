@@ -1,4 +1,4 @@
-package com.rashika.managerinfoservice.model;
+package com.rashika.employeemanagerinfoservice.model;
 
 public class Manager {
     private Integer managerId;

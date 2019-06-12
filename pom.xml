@@ -6,7 +6,14 @@
 
     <groupId>com.rashika</groupId>
     <artifactId>microservices</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>server</module>
+        <module>employee_info_service</module>
+        <module>manager_info_service</module>
+        <module>employee_manager_info_service</module>
+    </modules>
 
 
 </project>
